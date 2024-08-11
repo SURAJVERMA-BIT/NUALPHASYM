@@ -57,11 +57,3 @@ For any issues or questions, please open an issue in the repository or contact t
 ## Author
 [Suraj Verma]
 [sv9052788@gmail.com]
-
-### Instructions for Using the `README.md`:
-
-1. **Replace `<repository_url>`** with the URL of your GitHub repository.
-2. **Replace `<repository_directory>`** with the name of your project directory.
-3. **Update the `Author` section** with your name and contact information.
-
-This `README.md` should provide a clear and comprehensive guide for users and contributors to understand and use your project effectively.
